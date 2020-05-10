@@ -5,11 +5,17 @@ import time
 from unidecode import unidecode
 
 
-# Make a get request to get the latest position of the international space station from the opennotify api.
+"""     Resumo
+Coleta dados da api: https://github.com/devarthurribeiro/covid19-brazil-api
+
+
+"""
+
+# Verifica se o request foi bem sucedido
 response = requests.get("https://covid19-brazil-api.now.sh/api/report/v1")
 # Print the status code of the response.
 print(response.status_code)
-response.status_code = 404
+# Se bem sucedido realiza a coleta de dados
 if response.status_code == 200:
 
     # Busca a ultima atualização de casos no Brasil
@@ -133,5 +139,5 @@ if response.status_code == 200:
         
     t6 = time.perf_counter()
     print(f'Terminou em {t6-t5} segundos')
-    with open('casos_atualizados_Mundo.json', 'w') as f3:
+    with open('casos_atualizados_mundo.json', 'w') as f3:
         json.dump(resultado3, f3, indent=2)
