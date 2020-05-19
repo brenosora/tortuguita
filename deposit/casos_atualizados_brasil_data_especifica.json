@@ -1,0 +1,272 @@
+[
+  {
+    "UID": 35,
+    "UF": "SP",
+    "Estado": "Sao Paulo",
+    "Casos": 41830,
+    "Mortes": 3416,
+    "Suspeitas": 5334,
+    "Recusados": 596,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 33,
+    "UF": "RJ",
+    "Estado": "Rio de Janeiro",
+    "Casos": 15741,
+    "Mortes": 1503,
+    "Suspeitas": 1254,
+    "Recusados": 148,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 23,
+    "UF": "CE",
+    "Estado": "Ceara",
+    "Casos": 14956,
+    "Mortes": 966,
+    "Suspeitas": 493,
+    "Recusados": 89,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 26,
+    "UF": "PE",
+    "Estado": "Pernambuco",
+    "Casos": 11587,
+    "Mortes": 927,
+    "Suspeitas": 89,
+    "Recusados": 23,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 13,
+    "UF": "AM",
+    "Estado": "Amazonas",
+    "Casos": 10727,
+    "Mortes": 874,
+    "Suspeitas": 18,
+    "Recusados": 26,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 15,
+    "UF": "PA",
+    "Estado": "Para",
+    "Casos": 6141,
+    "Mortes": 515,
+    "Suspeitas": 43,
+    "Recusados": 23,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 21,
+    "UF": "MA",
+    "Estado": "Maranhao",
+    "Casos": 5909,
+    "Mortes": 330,
+    "Suspeitas": 125,
+    "Recusados": 13,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 29,
+    "UF": "BA",
+    "Estado": "Bahia",
+    "Casos": 4818,
+    "Mortes": 183,
+    "Suspeitas": 573,
+    "Recusados": 36,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 32,
+    "UF": "ES",
+    "Estado": "Espirito Santo",
+    "Casos": 4242,
+    "Mortes": 165,
+    "Suspeitas": 71,
+    "Recusados": 21,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 42,
+    "UF": "SC",
+    "Estado": "Santa Catarina",
+    "Casos": 3205,
+    "Mortes": 63,
+    "Suspeitas": 346,
+    "Recusados": 47,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 31,
+    "UF": "MG",
+    "Estado": "Minas Gerais",
+    "Casos": 2943,
+    "Mortes": 111,
+    "Suspeitas": 925,
+    "Recusados": 104,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 43,
+    "UF": "RS",
+    "Estado": "Rio Grande do Sul",
+    "Casos": 2447,
+    "Mortes": 91,
+    "Suspeitas": 416,
+    "Recusados": 330,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 53,
+    "UF": "DF",
+    "Estado": "Distrito Federal",
+    "Casos": 2442,
+    "Mortes": 37,
+    "Suspeitas": 327,
+    "Recusados": 107,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 16,
+    "UF": "AP",
+    "Estado": "Amapa",
+    "Casos": 2322,
+    "Mortes": 66,
+    "Suspeitas": 15,
+    "Recusados": 0,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 27,
+    "UF": "AL",
+    "Estado": "Alagoas",
+    "Casos": 2033,
+    "Mortes": 108,
+    "Suspeitas": 43,
+    "Recusados": 22,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 25,
+    "UF": "PB",
+    "Estado": "Paraiba",
+    "Casos": 2031,
+    "Mortes": 114,
+    "Suspeitas": 85,
+    "Recusados": 11,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 24,
+    "UF": "RN",
+    "Estado": "Rio Grande do Norte",
+    "Casos": 1821,
+    "Mortes": 81,
+    "Suspeitas": 108,
+    "Recusados": 22,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 41,
+    "UF": "PR",
+    "Estado": "Parana",
+    "Casos": 1711,
+    "Mortes": 106,
+    "Suspeitas": 400,
+    "Recusados": 119,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 28,
+    "UF": "SE",
+    "Estado": "Sergipe",
+    "Casos": 1438,
+    "Mortes": 28,
+    "Suspeitas": 15,
+    "Recusados": 11,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 11,
+    "UF": "RO",
+    "Estado": "Rondonia",
+    "Casos": 1222,
+    "Mortes": 39,
+    "Suspeitas": 61,
+    "Recusados": 2,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 12,
+    "UF": "AC",
+    "Estado": "Acre",
+    "Casos": 1177,
+    "Mortes": 38,
+    "Suspeitas": 12,
+    "Recusados": 0,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 22,
+    "UF": "PI",
+    "Estado": "Piaui",
+    "Casos": 1131,
+    "Mortes": 37,
+    "Suspeitas": 12,
+    "Recusados": 2,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 14,
+    "UF": "RR",
+    "Estado": "Roraima",
+    "Casos": 1124,
+    "Mortes": 16,
+    "Suspeitas": 9,
+    "Recusados": 0,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 52,
+    "UF": "GO",
+    "Estado": "Goias",
+    "Casos": 1053,
+    "Mortes": 49,
+    "Suspeitas": 353,
+    "Recusados": 55,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 17,
+    "UF": "TO",
+    "Estado": "Tocantins",
+    "Casos": 494,
+    "Mortes": 9,
+    "Suspeitas": 13,
+    "Recusados": 0,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 51,
+    "UF": "MT",
+    "Estado": "Mato Grosso",
+    "Casos": 457,
+    "Mortes": 14,
+    "Suspeitas": 45,
+    "Recusados": 8,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  },
+  {
+    "UID": 50,
+    "UF": "MS",
+    "Estado": "Mato Grosso do Sul",
+    "Casos": 326,
+    "Mortes": 11,
+    "Suspeitas": 93,
+    "Recusados": 26,
+    "Data e Hora": "2020-05-08T22:33:57.225Z"
+  }
+]
