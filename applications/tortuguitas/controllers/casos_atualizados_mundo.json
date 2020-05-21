@@ -1,0 +1,1506 @@
+[
+  {
+    "Pais": "Australia",
+    "Casos": 521,
+    "Confirmandos": 7083,
+    "Mortes": 100,
+    "Recuperados": 6462,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Austria",
+    "Casos": 838,
+    "Confirmandos": 16353,
+    "Mortes": 633,
+    "Recuperados": 14882,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Canada",
+    "Casos": 34633,
+    "Confirmandos": 81549,
+    "Mortes": 6147,
+    "Recuperados": 40769,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "China",
+    "Casos": 115,
+    "Confirmandos": 84063,
+    "Mortes": 4638,
+    "Recuperados": 79310,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Denmark",
+    "Casos": 1027,
+    "Confirmandos": 11315,
+    "Mortes": 554,
+    "Recuperados": 9734,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Finland",
+    "Casos": 1339,
+    "Confirmandos": 6443,
+    "Mortes": 304,
+    "Recuperados": 4800,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "France",
+    "Casos": 90093,
+    "Confirmandos": 181700,
+    "Mortes": 28135,
+    "Recuperados": 63472,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Germany",
+    "Casos": 13363,
+    "Confirmandos": 178473,
+    "Mortes": 8144,
+    "Recuperados": 156966,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Iceland",
+    "Casos": 4,
+    "Confirmandos": 1803,
+    "Mortes": 10,
+    "Recuperados": 1789,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Ireland",
+    "Casos": 1684,
+    "Confirmandos": 24315,
+    "Mortes": 1571,
+    "Recuperados": 21060,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Italy",
+    "Casos": 62752,
+    "Confirmandos": 227364,
+    "Mortes": 32330,
+    "Recuperados": 132282,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Netherlands",
+    "Casos": 38711,
+    "Confirmandos": 44647,
+    "Mortes": 5767,
+    "Recuperados": 169,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Norway",
+    "Casos": 8015,
+    "Confirmandos": 8281,
+    "Mortes": 234,
+    "Recuperados": 32,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Russia",
+    "Casos": 220341,
+    "Confirmandos": 308705,
+    "Mortes": 2972,
+    "Recuperados": 85392,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Sweden",
+    "Casos": 22721,
+    "Confirmandos": 31523,
+    "Mortes": 3831,
+    "Recuperados": 4971,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Switzerland",
+    "Casos": 966,
+    "Confirmandos": 30658,
+    "Mortes": 1892,
+    "Recuperados": 27800,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "United Kingdom",
+    "Casos": 212717,
+    "Confirmandos": 249619,
+    "Mortes": 35786,
+    "Recuperados": 1116,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "US",
+    "Casos": 1162235,
+    "Confirmandos": 1550959,
+    "Mortes": 93406,
+    "Recuperados": 294312,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Spain",
+    "Casos": 54291,
+    "Confirmandos": 232555,
+    "Mortes": 27888,
+    "Recuperados": 150376,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Mexico",
+    "Casos": 11767,
+    "Confirmandos": 54346,
+    "Mortes": 5666,
+    "Recuperados": 36913,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Chile",
+    "Casos": 30569,
+    "Confirmandos": 53617,
+    "Mortes": 544,
+    "Recuperados": 22504,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Brazil",
+    "Casos": 156037,
+    "Confirmandos": 291579,
+    "Mortes": 18859,
+    "Recuperados": 116683,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Afghanistan",
+    "Casos": 7028,
+    "Confirmandos": 8145,
+    "Mortes": 187,
+    "Recuperados": 930,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Albania",
+    "Casos": 175,
+    "Confirmandos": 964,
+    "Mortes": 31,
+    "Recuperados": 758,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Algeria",
+    "Casos": 3006,
+    "Confirmandos": 7542,
+    "Mortes": 568,
+    "Recuperados": 3968,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Andorra",
+    "Casos": 72,
+    "Confirmandos": 762,
+    "Mortes": 51,
+    "Recuperados": 639,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Angola",
+    "Casos": 32,
+    "Confirmandos": 52,
+    "Mortes": 3,
+    "Recuperados": 17,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Antigua and Barbuda",
+    "Casos": 3,
+    "Confirmandos": 25,
+    "Mortes": 3,
+    "Recuperados": 19,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Argentina",
+    "Casos": 5947,
+    "Confirmandos": 9283,
+    "Mortes": 403,
+    "Recuperados": 2933,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Armenia",
+    "Casos": 2785,
+    "Confirmandos": 5271,
+    "Mortes": 67,
+    "Recuperados": 2419,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Azerbaijan",
+    "Casos": 1335,
+    "Confirmandos": 3631,
+    "Mortes": 43,
+    "Recuperados": 2253,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Bahamas",
+    "Casos": 42,
+    "Confirmandos": 96,
+    "Mortes": 11,
+    "Recuperados": 43,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Bahrain",
+    "Casos": 4308,
+    "Confirmandos": 7888,
+    "Mortes": 12,
+    "Recuperados": 3568,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Bangladesh",
+    "Casos": 21145,
+    "Confirmandos": 26738,
+    "Mortes": 386,
+    "Recuperados": 5207,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Barbados",
+    "Casos": 13,
+    "Confirmandos": 90,
+    "Mortes": 7,
+    "Recuperados": 70,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Belarus",
+    "Casos": 20832,
+    "Confirmandos": 32426,
+    "Mortes": 179,
+    "Recuperados": 11415,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Belgium",
+    "Casos": 31986,
+    "Confirmandos": 55983,
+    "Mortes": 9150,
+    "Recuperados": 14847,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Belize",
+    "Casos": 0,
+    "Confirmandos": 18,
+    "Mortes": 2,
+    "Recuperados": 16,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Benin",
+    "Casos": 45,
+    "Confirmandos": 130,
+    "Mortes": 2,
+    "Recuperados": 83,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Bhutan",
+    "Casos": 16,
+    "Confirmandos": 21,
+    "Mortes": 0,
+    "Recuperados": 5,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Bolivia",
+    "Casos": 3759,
+    "Confirmandos": 4481,
+    "Mortes": 189,
+    "Recuperados": 533,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Bosnia and Herzegovina",
+    "Casos": 645,
+    "Confirmandos": 2338,
+    "Mortes": 136,
+    "Recuperados": 1557,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Botswana",
+    "Casos": 7,
+    "Confirmandos": 25,
+    "Mortes": 1,
+    "Recuperados": 17,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Brunei",
+    "Casos": 4,
+    "Confirmandos": 141,
+    "Mortes": 1,
+    "Recuperados": 136,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Bulgaria",
+    "Casos": 1492,
+    "Confirmandos": 2292,
+    "Mortes": 116,
+    "Recuperados": 684,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Burkina Faso",
+    "Casos": 96,
+    "Confirmandos": 809,
+    "Mortes": 52,
+    "Recuperados": 661,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Burma",
+    "Casos": 85,
+    "Confirmandos": 199,
+    "Mortes": 6,
+    "Recuperados": 108,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Burundi",
+    "Casos": 21,
+    "Confirmandos": 42,
+    "Mortes": 1,
+    "Recuperados": 20,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Cabo Verde",
+    "Casos": 261,
+    "Confirmandos": 349,
+    "Mortes": 3,
+    "Recuperados": 85,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Cambodia",
+    "Casos": 0,
+    "Confirmandos": 122,
+    "Mortes": 0,
+    "Recuperados": 122,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Cameroon",
+    "Casos": 1992,
+    "Confirmandos": 3733,
+    "Mortes": 146,
+    "Recuperados": 1595,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Central African Republic",
+    "Casos": 348,
+    "Confirmandos": 366,
+    "Mortes": 0,
+    "Recuperados": 18,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Chad",
+    "Casos": 331,
+    "Confirmandos": 565,
+    "Mortes": 57,
+    "Recuperados": 177,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Colombia",
+    "Casos": 12801,
+    "Confirmandos": 17687,
+    "Mortes": 630,
+    "Recuperados": 4256,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Comoros",
+    "Casos": 25,
+    "Confirmandos": 34,
+    "Mortes": 1,
+    "Recuperados": 8,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Congo (Brazzaville)",
+    "Casos": 273,
+    "Confirmandos": 420,
+    "Mortes": 15,
+    "Recuperados": 132,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Congo (Kinshasa)",
+    "Casos": 1368,
+    "Confirmandos": 1731,
+    "Mortes": 61,
+    "Recuperados": 302,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Costa Rica",
+    "Casos": 305,
+    "Confirmandos": 897,
+    "Mortes": 10,
+    "Recuperados": 582,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Cote d'Ivoire",
+    "Casos": 1119,
+    "Confirmandos": 2231,
+    "Mortes": 29,
+    "Recuperados": 1083,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Croatia",
+    "Casos": 160,
+    "Confirmandos": 2234,
+    "Mortes": 96,
+    "Recuperados": 1978,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Cuba",
+    "Casos": 248,
+    "Confirmandos": 1900,
+    "Mortes": 79,
+    "Recuperados": 1573,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Cyprus",
+    "Casos": 389,
+    "Confirmandos": 922,
+    "Mortes": 17,
+    "Recuperados": 516,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Czechia",
+    "Casos": 2587,
+    "Confirmandos": 8721,
+    "Mortes": 304,
+    "Recuperados": 5830,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Diamond Princess",
+    "Casos": 48,
+    "Confirmandos": 712,
+    "Mortes": 13,
+    "Recuperados": 651,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Djibouti",
+    "Casos": 767,
+    "Confirmandos": 1828,
+    "Mortes": 9,
+    "Recuperados": 1052,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Dominica",
+    "Casos": 0,
+    "Confirmandos": 16,
+    "Mortes": 0,
+    "Recuperados": 16,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Dominican Republic",
+    "Casos": 5889,
+    "Confirmandos": 13477,
+    "Mortes": 446,
+    "Recuperados": 7142,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Ecuador",
+    "Casos": 28409,
+    "Confirmandos": 34854,
+    "Mortes": 2888,
+    "Recuperados": 3557,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Egypt",
+    "Casos": 9555,
+    "Confirmandos": 14229,
+    "Mortes": 680,
+    "Recuperados": 3994,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "El Salvador",
+    "Casos": 1009,
+    "Confirmandos": 1571,
+    "Mortes": 31,
+    "Recuperados": 531,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Equatorial Guinea",
+    "Casos": 861,
+    "Confirmandos": 890,
+    "Mortes": 7,
+    "Recuperados": 22,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Eritrea",
+    "Casos": 0,
+    "Confirmandos": 39,
+    "Mortes": 0,
+    "Recuperados": 39,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Estonia",
+    "Casos": 774,
+    "Confirmandos": 1794,
+    "Mortes": 64,
+    "Recuperados": 956,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Eswatini",
+    "Casos": 118,
+    "Confirmandos": 217,
+    "Mortes": 2,
+    "Recuperados": 97,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Ethiopia",
+    "Casos": 262,
+    "Confirmandos": 389,
+    "Mortes": 5,
+    "Recuperados": 122,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Fiji",
+    "Casos": 3,
+    "Confirmandos": 18,
+    "Mortes": 0,
+    "Recuperados": 15,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Gabon",
+    "Casos": 1190,
+    "Confirmandos": 1567,
+    "Mortes": 12,
+    "Recuperados": 365,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Gambia",
+    "Casos": 10,
+    "Confirmandos": 24,
+    "Mortes": 1,
+    "Recuperados": 13,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Georgia",
+    "Casos": 226,
+    "Confirmandos": 713,
+    "Mortes": 12,
+    "Recuperados": 475,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Ghana",
+    "Casos": 4292,
+    "Confirmandos": 6096,
+    "Mortes": 31,
+    "Recuperados": 1773,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Greece",
+    "Casos": 1310,
+    "Confirmandos": 2850,
+    "Mortes": 166,
+    "Recuperados": 1374,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Grenada",
+    "Casos": 5,
+    "Confirmandos": 22,
+    "Mortes": 0,
+    "Recuperados": 17,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Guatemala",
+    "Casos": 1935,
+    "Confirmandos": 2133,
+    "Mortes": 43,
+    "Recuperados": 155,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Guinea",
+    "Casos": 1320,
+    "Confirmandos": 2863,
+    "Mortes": 18,
+    "Recuperados": 1525,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Guinea-Bissau",
+    "Casos": 1041,
+    "Confirmandos": 1089,
+    "Mortes": 6,
+    "Recuperados": 42,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Guyana",
+    "Casos": 68,
+    "Confirmandos": 125,
+    "Mortes": 10,
+    "Recuperados": 47,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Haiti",
+    "Casos": 553,
+    "Confirmandos": 596,
+    "Mortes": 22,
+    "Recuperados": 21,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Holy See",
+    "Casos": 10,
+    "Confirmandos": 12,
+    "Mortes": 0,
+    "Recuperados": 2,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Honduras",
+    "Casos": 2459,
+    "Confirmandos": 2955,
+    "Mortes": 147,
+    "Recuperados": 349,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Hungary",
+    "Casos": 1674,
+    "Confirmandos": 3598,
+    "Mortes": 470,
+    "Recuperados": 1454,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "India",
+    "Casos": 63172,
+    "Confirmandos": 112028,
+    "Mortes": 3434,
+    "Recuperados": 45422,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Indonesia",
+    "Casos": 13372,
+    "Confirmandos": 19189,
+    "Mortes": 1242,
+    "Recuperados": 4575,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Iran",
+    "Casos": 20958,
+    "Confirmandos": 126949,
+    "Mortes": 7183,
+    "Recuperados": 98808,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Iraq",
+    "Casos": 1152,
+    "Confirmandos": 3724,
+    "Mortes": 134,
+    "Recuperados": 2438,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Israel",
+    "Casos": 2884,
+    "Confirmandos": 16667,
+    "Mortes": 279,
+    "Recuperados": 13504,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Jamaica",
+    "Casos": 366,
+    "Confirmandos": 520,
+    "Mortes": 9,
+    "Recuperados": 145,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Japan",
+    "Casos": 4035,
+    "Confirmandos": 16367,
+    "Mortes": 768,
+    "Recuperados": 11564,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Jordan",
+    "Casos": 217,
+    "Confirmandos": 672,
+    "Mortes": 9,
+    "Recuperados": 446,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Kazakhstan",
+    "Casos": 3200,
+    "Confirmandos": 6969,
+    "Mortes": 35,
+    "Recuperados": 3734,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Kenya",
+    "Casos": 613,
+    "Confirmandos": 1029,
+    "Mortes": 50,
+    "Recuperados": 366,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Korea, South",
+    "Casos": 781,
+    "Confirmandos": 11110,
+    "Mortes": 263,
+    "Recuperados": 10066,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Kosovo",
+    "Casos": 191,
+    "Confirmandos": 989,
+    "Mortes": 29,
+    "Recuperados": 769,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Kuwait",
+    "Casos": 12559,
+    "Confirmandos": 17568,
+    "Mortes": 124,
+    "Recuperados": 4885,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Kyrgyzstan",
+    "Casos": 346,
+    "Confirmandos": 1270,
+    "Mortes": 14,
+    "Recuperados": 910,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Laos",
+    "Casos": 5,
+    "Confirmandos": 19,
+    "Mortes": 0,
+    "Recuperados": 14,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Latvia",
+    "Casos": 301,
+    "Confirmandos": 1016,
+    "Mortes": 21,
+    "Recuperados": 694,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Lebanon",
+    "Casos": 684,
+    "Confirmandos": 961,
+    "Mortes": 26,
+    "Recuperados": 251,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Lesotho",
+    "Casos": 1,
+    "Confirmandos": 1,
+    "Mortes": 0,
+    "Recuperados": 0,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Liberia",
+    "Casos": 87,
+    "Confirmandos": 238,
+    "Mortes": 23,
+    "Recuperados": 128,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Libya",
+    "Casos": 31,
+    "Confirmandos": 69,
+    "Mortes": 3,
+    "Recuperados": 35,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Liechtenstein",
+    "Casos": 26,
+    "Confirmandos": 82,
+    "Mortes": 1,
+    "Recuperados": 55,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Lithuania",
+    "Casos": 468,
+    "Confirmandos": 1577,
+    "Mortes": 60,
+    "Recuperados": 1049,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Luxembourg",
+    "Casos": 134,
+    "Confirmandos": 3971,
+    "Mortes": 109,
+    "Recuperados": 3728,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "MS Zaandam",
+    "Casos": 7,
+    "Confirmandos": 9,
+    "Mortes": 2,
+    "Recuperados": 0,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Madagascar",
+    "Casos": 238,
+    "Confirmandos": 371,
+    "Mortes": 2,
+    "Recuperados": 131,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Malawi",
+    "Casos": 41,
+    "Confirmandos": 71,
+    "Mortes": 3,
+    "Recuperados": 27,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Malaysia",
+    "Casos": 1189,
+    "Confirmandos": 7009,
+    "Mortes": 114,
+    "Recuperados": 5706,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Maldives",
+    "Casos": 1091,
+    "Confirmandos": 1186,
+    "Mortes": 4,
+    "Recuperados": 91,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Mali",
+    "Casos": 333,
+    "Confirmandos": 931,
+    "Mortes": 55,
+    "Recuperados": 543,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Malta",
+    "Casos": 113,
+    "Confirmandos": 584,
+    "Mortes": 6,
+    "Recuperados": 465,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Mauritania",
+    "Casos": 130,
+    "Confirmandos": 141,
+    "Mortes": 4,
+    "Recuperados": 7,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Mauritius",
+    "Casos": 0,
+    "Confirmandos": 332,
+    "Mortes": 10,
+    "Recuperados": 322,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Moldova",
+    "Casos": 3372,
+    "Confirmandos": 6553,
+    "Mortes": 228,
+    "Recuperados": 2953,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Monaco",
+    "Casos": 3,
+    "Confirmandos": 97,
+    "Mortes": 4,
+    "Recuperados": 90,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Mongolia",
+    "Casos": 114,
+    "Confirmandos": 140,
+    "Mortes": 0,
+    "Recuperados": 26,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Montenegro",
+    "Casos": 3,
+    "Confirmandos": 324,
+    "Mortes": 9,
+    "Recuperados": 312,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Morocco",
+    "Casos": 2841,
+    "Confirmandos": 7133,
+    "Mortes": 194,
+    "Recuperados": 4098,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Mozambique",
+    "Casos": 108,
+    "Confirmandos": 156,
+    "Mortes": 0,
+    "Recuperados": 48,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Namibia",
+    "Casos": 2,
+    "Confirmandos": 16,
+    "Mortes": 0,
+    "Recuperados": 14,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Nepal",
+    "Casos": 380,
+    "Confirmandos": 427,
+    "Mortes": 2,
+    "Recuperados": 45,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "New Zealand",
+    "Casos": 35,
+    "Confirmandos": 1503,
+    "Mortes": 21,
+    "Recuperados": 1447,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Nicaragua",
+    "Casos": 38,
+    "Confirmandos": 254,
+    "Mortes": 17,
+    "Recuperados": 199,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Niger",
+    "Casos": 124,
+    "Confirmandos": 920,
+    "Mortes": 58,
+    "Recuperados": 738,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Nigeria",
+    "Casos": 4637,
+    "Confirmandos": 6677,
+    "Mortes": 200,
+    "Recuperados": 1840,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "North Macedonia",
+    "Casos": 381,
+    "Confirmandos": 1858,
+    "Mortes": 110,
+    "Recuperados": 1367,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Oman",
+    "Casos": 4352,
+    "Confirmandos": 6043,
+    "Mortes": 30,
+    "Recuperados": 1661,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Pakistan",
+    "Casos": 31812,
+    "Confirmandos": 45898,
+    "Mortes": 985,
+    "Recuperados": 13101,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Panama",
+    "Casos": 3496,
+    "Confirmandos": 9977,
+    "Mortes": 287,
+    "Recuperados": 6194,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Papua New Guinea",
+    "Casos": 0,
+    "Confirmandos": 8,
+    "Mortes": 0,
+    "Recuperados": 8,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Paraguay",
+    "Casos": 580,
+    "Confirmandos": 833,
+    "Mortes": 11,
+    "Recuperados": 242,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Peru",
+    "Casos": 59028,
+    "Confirmandos": 104020,
+    "Mortes": 3024,
+    "Recuperados": 41968,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Philippines",
+    "Casos": 9447,
+    "Confirmandos": 13221,
+    "Mortes": 842,
+    "Recuperados": 2932,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Poland",
+    "Casos": 10594,
+    "Confirmandos": 19739,
+    "Mortes": 962,
+    "Recuperados": 8183,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Portugal",
+    "Casos": 21945,
+    "Confirmandos": 29660,
+    "Mortes": 1263,
+    "Recuperados": 6452,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Qatar",
+    "Casos": 30481,
+    "Confirmandos": 37097,
+    "Mortes": 16,
+    "Recuperados": 6600,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Romania",
+    "Casos": 5884,
+    "Confirmandos": 17387,
+    "Mortes": 1147,
+    "Recuperados": 10356,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Rwanda",
+    "Casos": 98,
+    "Confirmandos": 314,
+    "Mortes": 0,
+    "Recuperados": 216,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Saint Kitts and Nevis",
+    "Casos": 0,
+    "Confirmandos": 15,
+    "Mortes": 0,
+    "Recuperados": 15,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Saint Lucia",
+    "Casos": 0,
+    "Confirmandos": 18,
+    "Mortes": 0,
+    "Recuperados": 18,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Saint Vincent and the Grenadines",
+    "Casos": 3,
+    "Confirmandos": 17,
+    "Mortes": 0,
+    "Recuperados": 14,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "San Marino",
+    "Casos": 395,
+    "Confirmandos": 656,
+    "Mortes": 41,
+    "Recuperados": 220,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Sao Tome and Principe",
+    "Casos": 239,
+    "Confirmandos": 251,
+    "Mortes": 8,
+    "Recuperados": 4,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Saudi Arabia",
+    "Casos": 28728,
+    "Confirmandos": 62545,
+    "Mortes": 339,
+    "Recuperados": 33478,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Senegal",
+    "Casos": 1498,
+    "Confirmandos": 2714,
+    "Mortes": 30,
+    "Recuperados": 1186,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Serbia",
+    "Casos": 5531,
+    "Confirmandos": 10833,
+    "Mortes": 235,
+    "Recuperados": 5067,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Seychelles",
+    "Casos": 0,
+    "Confirmandos": 11,
+    "Mortes": 0,
+    "Recuperados": 11,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Sierra Leone",
+    "Casos": 331,
+    "Confirmandos": 570,
+    "Mortes": 34,
+    "Recuperados": 205,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Singapore",
+    "Casos": 18135,
+    "Confirmandos": 29364,
+    "Mortes": 22,
+    "Recuperados": 11207,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Slovakia",
+    "Casos": 237,
+    "Confirmandos": 1496,
+    "Mortes": 28,
+    "Recuperados": 1231,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Slovenia",
+    "Casos": 23,
+    "Confirmandos": 1468,
+    "Mortes": 105,
+    "Recuperados": 1340,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Somalia",
+    "Casos": 1324,
+    "Confirmandos": 1573,
+    "Mortes": 61,
+    "Recuperados": 188,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "South Africa",
+    "Casos": 8714,
+    "Confirmandos": 18003,
+    "Mortes": 339,
+    "Recuperados": 8950,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "South Sudan",
+    "Casos": 282,
+    "Confirmandos": 290,
+    "Mortes": 4,
+    "Recuperados": 4,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Sri Lanka",
+    "Casos": 435,
+    "Confirmandos": 1028,
+    "Mortes": 9,
+    "Recuperados": 584,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Sudan",
+    "Casos": 2331,
+    "Confirmandos": 2728,
+    "Mortes": 111,
+    "Recuperados": 286,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Suriname",
+    "Casos": 1,
+    "Confirmandos": 11,
+    "Mortes": 1,
+    "Recuperados": 9,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Syria",
+    "Casos": 19,
+    "Confirmandos": 58,
+    "Mortes": 3,
+    "Recuperados": 36,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Taiwan*",
+    "Casos": 35,
+    "Confirmandos": 440,
+    "Mortes": 7,
+    "Recuperados": 398,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Tajikistan",
+    "Casos": 1458,
+    "Confirmandos": 2140,
+    "Mortes": 41,
+    "Recuperados": 641,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Tanzania",
+    "Casos": 305,
+    "Confirmandos": 509,
+    "Mortes": 21,
+    "Recuperados": 183,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Thailand",
+    "Casos": 90,
+    "Confirmandos": 3034,
+    "Mortes": 56,
+    "Recuperados": 2888,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Timor-Leste",
+    "Casos": 0,
+    "Confirmandos": 24,
+    "Mortes": 0,
+    "Recuperados": 24,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Togo",
+    "Casos": 218,
+    "Confirmandos": 340,
+    "Mortes": 12,
+    "Recuperados": 110,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Trinidad and Tobago",
+    "Casos": 1,
+    "Confirmandos": 116,
+    "Mortes": 8,
+    "Recuperados": 107,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Tunisia",
+    "Casos": 171,
+    "Confirmandos": 1044,
+    "Mortes": 47,
+    "Recuperados": 826,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Turkey",
+    "Casos": 34378,
+    "Confirmandos": 152587,
+    "Mortes": 4222,
+    "Recuperados": 113987,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Uganda",
+    "Casos": 199,
+    "Confirmandos": 264,
+    "Mortes": 0,
+    "Recuperados": 65,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Ukraine",
+    "Casos": 12711,
+    "Confirmandos": 19230,
+    "Mortes": 564,
+    "Recuperados": 5955,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "United Arab Emirates",
+    "Casos": 13962,
+    "Confirmandos": 26004,
+    "Mortes": 233,
+    "Recuperados": 11809,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Uruguay",
+    "Casos": 138,
+    "Confirmandos": 746,
+    "Mortes": 20,
+    "Recuperados": 588,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Uzbekistan",
+    "Casos": 554,
+    "Confirmandos": 2939,
+    "Mortes": 13,
+    "Recuperados": 2372,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Venezuela",
+    "Casos": 552,
+    "Confirmandos": 824,
+    "Mortes": 10,
+    "Recuperados": 262,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Vietnam",
+    "Casos": 61,
+    "Confirmandos": 324,
+    "Mortes": 0,
+    "Recuperados": 263,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "West Bank and Gaza",
+    "Casos": 50,
+    "Confirmandos": 398,
+    "Mortes": 2,
+    "Recuperados": 346,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Western Sahara",
+    "Casos": 0,
+    "Confirmandos": 6,
+    "Mortes": 0,
+    "Recuperados": 6,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Yemen",
+    "Casos": 149,
+    "Confirmandos": 184,
+    "Mortes": 30,
+    "Recuperados": 5,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Zambia",
+    "Casos": 628,
+    "Confirmandos": 832,
+    "Mortes": 7,
+    "Recuperados": 197,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  },
+  {
+    "Pais": "Zimbabwe",
+    "Casos": 26,
+    "Confirmandos": 48,
+    "Mortes": 4,
+    "Recuperados": 18,
+    "Data e Hora": "2020-05-20T23:32:52.000Z"
+  }
+]
